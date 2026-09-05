@@ -127,7 +127,7 @@ Search And Rescue @ [Yakima County Search and Rescue](https://yakimasar.org) _(2
 Communications Director @ [Friends of Berthoud Pass](https://berthoudpass.org) _(2011 - 2015)_
 
 ## Associations and Memberships
-American Avalanche Association (Affiliate Member) [Link](https://www.americanavalancheassociation.org)
+American Avalanche Association (Affiliate Member) [Link](https://www.americanavalancheassociation.org)\
 Yakima Amateur Radio Club ([W7AQ](https://www.w7aq.com)
   
 ## Personal
