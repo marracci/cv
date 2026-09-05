@@ -5,9 +5,9 @@ _Spatial, Data and Information Systems Advisor based in Washington State, USA_ <
 [Email](mailto:bjmarra@outlook.com) / [LinkedIn](https://www.linkedin.com/in/bjmarraccini/) / [GitHub](https://github.com/marracci/)
 
 ## Professional Summary
-I make data accessible and connect it to use cases that solve customer problems. Spatially, strategically, and in plain language. As a business advisor, I've developed products, services and solutions for energy, satellite imaging, mapping, insurtech, and regulated utilities over the course of my 20+ year career. 
+I make data accessible and then connect it to use cases that solve customer problems. Spatially, strategically, and in plain language. As a business advisor, I've developed products, services and solutions for energy, satellite imaging, mapping, insurtech, and regulated utilities over the course of my 20+ year career. 
 
-As a technology advisor, I’ve built data models, designed data pipelines, and solutioned authentication, translation and delivery layers for enterprises and consumers alike. What I like most is taking something scattered and making it structured, then documenting it visually for stakeholder review. 
+As a technology advisor, I’ve built data models, designed data pipelines, and solutioned authentication, translation and delivery layers for enterprises and consumers alike. What I enjoy most is taking scattered data and concepts, structuring them and publishing visual displays. 
 
 ## Career Experience
 ### Enterprise Data and Systems Integration 
