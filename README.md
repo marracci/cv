@@ -21,7 +21,7 @@ I help electric utilities implement enterprise data sharing capabilities for the
 through production deployment.
 
 **Technical Solutions Architect** @ [UtilityAPI](https://utilityapi.com/) _(July 2023 - July 2025)_ <br>
-Architect enterprise utility data sharing solutions that enable utility customers to securely share their interval and account data with third party service providers. 
+Architect enterprise data access solutions that enable utility customers to securely share their interval and account information with third party service providers. 
 - Craft and present OAuth 2.0 data sharing solutions that meet regulatory requirements and increase OpEx efficiency.
 - Evaluate data stores, develop conceptual data models and conduct data mapping exercises to ensure privacy compliance.
 - Design integration patterns which facilitate single sign-on federation and data exchange between information systems.
