@@ -1,6 +1,7 @@
-# Brett J. Marraccini
+# B. J. Marraccini
 
 _Spatial, Data and Information Systems Advisor based in Washington State, USA_ <br>
+
 
 [Email](mailto:bjmarra@outlook.com) / [LinkedIn](https://www.linkedin.com/in/bjmarraccini/) / [GitHub](https://github.com/marracci/)
 
