@@ -1,4 +1,4 @@
-# Brett Marraccini
+# Brett J. Marraccini
 
 _Spatial, Data and Information Systems Advisor based in Washington State, USA_ <br>
 
