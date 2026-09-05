@@ -1,4 +1,4 @@
-# B. J. Marraccini
+# B.J. / Brett Marraccini
 
 _Spatial, Data and Information Systems Advisor based in Washington State, USA_ <br>
 
