@@ -40,15 +40,15 @@ For an insuretech spin-out from American Family Insurance: Define and launch mac
 
 **Maps API Product Manager** @ [DigitalGlobe](https://en.wikipedia.org/wiki/DigitalGlobe) _(Apr 2014 - Jan 2019)_ <br>
 For a Fortune 500 satellite imaging and geospatial intelligence company: build and launch a new subscription model DaaS product for enterprise customers and mobile app developers.
-- Build (0-1) and operate the Maps API product which delivered very high-resolution Earth Observation (EO) imagery to location-based applications through configured web mapping and tiled API’s (xyz and wmts).
+- Build (0-1) and operate the Maps API product which delivered very high-resolution satellite imagery to location-based applications through configured web mapping and tiled API’s (xyz and wmts).
 - Develop data pipeline architecture, third-party licensing relationships, and help customers understand how to integrate imagery into applications they were building.
 - Design and execute a strategic Maps API Product roadmap, write API code samples, conduct product demos, collect user feedback, and launch DigitalGlobe's first-ever consumer e-commerce platform with more than 1,700 subscribers.
 - Provide product sales engineering for enterprise location technology deals (direct imagery, DaaS, SaaS).
 - Generate internal product investment, acceptance and feasibility by evangelizing daily with customers, finance, legal, marketing and engineering teams.
 
 **Manager, Technical and Web Enterprise Solutions** @ [Spatial Energy](https://spatialenergy.com) _(Aug 2010 - Mar 2014)_ <br>
-For a bootstrap Energy services startup: technical sales engineering of custom DaaS web service feeds for the energy (petroleum) industry, supporting 60 enterprise subscribers and $17M yearly revenue.
-- Identify, source and integrate aerial and satellite EO (3, 4, 8-band and multispectral imagery, LiDAR, ASTER, Weather, subsurface, and terrain) raster-based API feeds into customer hardware and software environments.
+For a bootstrap Energy services startup: technical sales engineering of custom DaaS web service feeds for the energy (oil and gas) industry, supporting 60 enterprise subscribers.
+- Identify, source and integrate aerial and satellite (3, 4, 8-band and multispectral) imagery, LiDAR, ASTER, Weather, subsurface, and terrain) raster-based API feeds into customer hardware and software environments.
 - Build, integrate, and continually enhance 200+ GeoServer and Esri Server geospatial web service endpoints to meet customer requirements across geographically distributed team locations.
 - Design on-site software training programs and host quarterly tips-n-tricks webinars.
 - Direct evolution of DaaS partnerships to expand customized geodata product offerings.
