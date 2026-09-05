@@ -128,7 +128,7 @@ Communications Director @ [Friends of Berthoud Pass](https://berthoudpass.org) _
 
 ## Associations and Memberships
 American Avalanche Association (Affiliate Member) [Link](https://www.americanavalancheassociation.org)\
-Yakima Amateur Radio Club ([W7AQ](https://www.w7aq.com)
+Yakima Amateur Radio Club ([W7AQ](https://www.w7aq.com))
   
 ## Personal
 Hiker, golfer, mountain biker, snowboarder and general outdoor aficionado.\
