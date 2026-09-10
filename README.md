@@ -138,6 +138,6 @@ Landscape, nature and outdoor photographer.
 ## Languages
 
 🇺🇸 **English**: Native <br>
-🇮🇹 **Italian**: B1
+🇮🇹 **Italian**: A2/B1
 <br><br>
 
