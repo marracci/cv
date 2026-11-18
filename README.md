@@ -99,7 +99,7 @@ For a mid-size Civil Engineering and Survey firm, provide GIS analysis and data 
 - Lead a small team of GIS analysts for infrastructure and environmental projects across Southern California.
 
 ## Publications
-_Climate-Scale Maps of Cold-Season Precipitation in the Mountainous Areas of Colorado for Operational Forecasting Applications_, International Snow Science Workshop, 2014. [Link](https://arc.lib.montana.edu/snow-science/item/2095) and [Full Repo](https://github.com/marracci/Colorado_Snowfall_Geodata-1980-2010)
+_Climate-Scale Maps of Cold-Season Precipitation in the Mountainous Areas of Colorado for Operational Forecasting Applications_, International Snow Science Workshop, 2014. [Publication Link](https://arc.lib.montana.edu/snow-science/item/2095) and [Full Repo](https://github.com/marracci/Colorado_Snowfall_Geodata-1980-2010)
 
 ## Licenses and Certifications
 _Professional_\
@@ -128,7 +128,10 @@ Search And Rescue @ [Yakima County Search and Rescue](https://yakimasar.org) _(2
 Communications Director @ [Friends of Berthoud Pass](https://berthoudpass.org) _(2011 - 2015)_
 
 ## Associations and Memberships
-American Avalanche Association [Link](https://www.americanavalancheassociation.org)\
+American Avalanche Association ([Link](https://www.americanavalancheassociation.org))\
+American Association of Geographers ([AAG](https://aag.org))\
+American Meteorology Society ([AMS](https://www.ametsoc.org))\
+Evergreen Mountain Bike Alliance ([Link](https://evergreenmtb.org))\
 Yakima Amateur Radio Club ([W7AQ](https://www.w7aq.com))
   
 ## Personal
