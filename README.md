@@ -122,7 +122,7 @@ _Bachelor of Arts_, **University of Colorado at Boulder** (2002)<br>
 &emsp;Geography and Hydrology
   
 ## Volunteering
-Alpine Partroller, Alumni @ [National Ski Patrol](https://nsp.org) _(Mar 2022 - Present)_<br>
+Alpine Patroller, Alumni @ [National Ski Patrol](https://nsp.org) _(Mar 2022 - Present)_<br>
 Technical Support @ [Central Washington Mountain Rescue](https://cwmr.org) _(2019 - 2024)_<br>
 Search And Rescue @ [Yakima County Search and Rescue](https://yakimasar.org) _(2019 - 2024)_<br>
 Communications Director @ [Friends of Berthoud Pass](https://berthoudpass.org) _(2011 - 2015)_
